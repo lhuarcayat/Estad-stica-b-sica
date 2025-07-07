@@ -1,0 +1,1 @@
+# estadística básica de datos de encuesta
